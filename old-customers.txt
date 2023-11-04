@@ -1,14 +1,7 @@
 
-Customer ID: 2
-Name: Anant
-Age: 21
-Mobile Number: 2147483647
-Address: 
-Gender: 
-
-Customer ID: 2
-Name: Anant
+Customer ID: 21
+Name: Additya
 Age: 21
 Mobile Number: 7015549080
-Address: Ynr
+Address: Yamunanagar
 Gender: Male

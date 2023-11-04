@@ -4,9 +4,9 @@ _________________________________
 Customer ID: 0
 
 Description		 Total
-Hotel cost:		 15000.00
-Travel (cab) cost:	 400.00
+Hotel cost:		 0.00
+Travel (cab) cost:	 0.00
 _________________________________
-Total Charge:		 15400.00
+Total Charge:		 0.00
 _________________________________
 ------------THANK YOU------------
